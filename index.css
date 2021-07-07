@@ -62,7 +62,7 @@ li span {
   font-size: 1.1em;
   text-align: left;
   padding-left: 10%;
-  }
+}
 
 #tribute-link {
   text-decoration: none;
@@ -70,17 +70,18 @@ li span {
 }
 
 @media only screen and (max-width: 600px) {
-    #img-div {
-      background-color: #fff;
-      padding: 15px;
-      margin: 0;
-      }
-    img {
-        max-width: 100%;
-        height: auto;
-        margin-left: auto;
-        margin-right: auto;
-        width: 100%;
+  #img-div {
+          background-color: #fff;
+          padding: 15px;
+          margin: 0;
         }
-    }
+
+      img {
+          max-width: 100%;
+          height: auto;
+          margin-left: auto;
+          margin-right: auto;
+          width: 100%;
+        }
+  }
     
